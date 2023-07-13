@@ -1,0 +1,44 @@
+body{
+    background: black;
+}
+
+h1{
+    background:linear-gradient(gray,rgb(136, 66, 66),rgb(71, 71, 160),gray);
+    color:black;
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+h2{
+    background:linear-gradient(rgb(108, 108, 231),gray,black);
+    color:black;
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+h3{
+    background:linear-gradient(rgb(53, 114, 53),rgb(168, 168, 74),rgb(136, 60, 60));
+    color: black;
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+    font-size: xx-large;
+}
+
+div{
+    color: chartreuse;
+    margin: auto;
+    height: 100px;
+    width: 400px;
+    text-align: center;
+    font-size: xx-large;
+}
+
+p{
+    text-align: center;
+    padding-top: 35px;
+    font-size: x-large;
+    font-weight: bolder;
+}
